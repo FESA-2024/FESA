@@ -8,6 +8,6 @@ open source community.
 ### 1.2. [Network Layer](https://github.com/andalzo/Network_Layer)
 ### 1.3. [FW (Fixed Wing Mavlink Interface)](https://github.com/andalzo/FW)
 ## 2. Specific Softwares
-### 2.1. [Flight](https://github.com/andalzo/FW)
-### 2.2. [GroundStation](https://github.com/andalzo/FW)
+### 2.1. [Flight](https://github.com/andalzo/Flight)
+### 2.2. [GroundStation](https://github.com/andalzo/GroundStation)
   
