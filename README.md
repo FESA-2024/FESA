@@ -4,10 +4,10 @@ were designed not specific to competition itself, they were implemented as gener
 open source community.
 
 ## 1. Generic Softwares
-### 1.1. [TSML (Thread Safe Messaging Library)](https://github.com/andalzo/TSML)
-### 1.2. [Network Layer](https://github.com/andalzo/Network_Layer)
-### 1.3. [FW (Fixed Wing Mavlink Interface)](https://github.com/andalzo/FW)
+### 1.1. [TSML (Thread Safe Messaging Library)](https://github.com/enessanc/TSML)
+### 1.2. [Network Layer](https://github.com/enessanc/NL)
+### 1.3. [FW (Fixed Wing Mavlink Interface)](https://github.com/enessanc/FW)
 ## 2. Specific Softwares
-### 2.1. [Flight](https://github.com/andalzo/Flight)
-### 2.2. [GroundStation](https://github.com/andalzo/GroundStation)
+### 2.1. [Flight](https://github.com/enessanc/FlightStation)
+### 2.2. [GroundStation](https://github.com/enessanc/GroundStation)
   
