@@ -8,6 +8,6 @@ open source community.
 ### 1.2. [Network Layer](https://github.com/enessanc/NL)
 ### 1.3. [FW (Fixed Wing Mavlink Interface)](https://github.com/enessanc/FW)
 ## 2. Specific Softwares
-### 2.1. [Flight](https://github.com/enessanc/FlightStation)
+### 2.1. [FlightStation](https://github.com/enessanc/FlightStation)
 ### 2.2. [GroundStation](https://github.com/enessanc/GroundStation)
   
